@@ -1,2 +1,5 @@
--- List all tables in the current database (expected to be alx_book_store)
+-- Use the alx_book_store database
+USE alx_book_store;
+
+-- List all tables in the current database
 SHOW TABLES;
